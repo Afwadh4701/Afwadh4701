@@ -2,7 +2,7 @@
 
 ### Robotics & Mechatronics Engineer | MSc Robotics Candidate
 
-I'm a Robotics and Mechatronics engineer based in Dubai, currently pursuing an **MSc in Robotics at Heriot-Watt University Dubai**. My work focuses on **autonomous mobile robots, ROS-based navigation, embedded systems, control, simulation, industrial automation, and applied machine learning**.
+I'm a Robotics and Mechatronics engineer based in Dubai, Graduate in **MSc in Robotics at Heriot-Watt University Dubai**. My work focuses on **autonomous mobile robots, ROS-based navigation, embedded systems, control, simulation, industrial automation, and applied machine learning**.
 
 I enjoy building and validating complete engineering systems — from sensing and control logic to simulation, navigation, data analysis, and technical documentation.
 
